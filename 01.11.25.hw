@@ -1,0 +1,43 @@
+#1
+
+#v = input()
+#if v.endswith("ов"):
+#    print(v)
+#else:
+#    print("error")
+
+#2
+
+#k = input()
+#j = False
+#for i in k:
+#    if i.isdigit():
+#        j = True
+#        break
+#if j:
+#    print("yes")
+#else:
+#    print("no")
+
+#3
+
+#u = input()
+#my_list = u.split(",")
+#while True:
+#  print(my_list)
+#  break
+#print(u.split(" "))
+
+#4
+
+#q = input()
+#q = q.replace("u", " ")
+#q = q.replace("y", " ")
+#q = q.replace("i", " ")
+ #q = q.replace("e", " ")
+#q = q.replace("a", " ")
+#print(q)
+
+#16(додумать)
+
+#не думается
